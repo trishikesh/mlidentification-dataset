@@ -1,0 +1,2 @@
+AES-256 Key (base64): PJzALAKC87ifcr2c2VfgZyb8Nyb/ZlXYT5eYXqA1e+k=
+Notes: Each cell has a unique 12-byte nonce; see nonces_cells.csv for nonce/tag per cell.
